@@ -3,17 +3,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kenaltahercom" alt="kenaltahercom" /></a> </p>
 
-- 🔭 I’m currently working on [LCC](not rady)
+- 🔭 I’m currently working on [LCC]
 
 - 🌱 I’m currently learning **Frameworks**
 
-- 👯 I’m looking to collaborate on [all project](not rady)
+- 👯 I’m looking to collaborate on [all project]
 
-- 🤝 I’m looking for help with [all solutions](not rady)
+- 🤝 I’m looking for help with [all solutions]
 
 - 👨‍💻 All of my projects are available at [https://kenaltaher.vercel.app/](https://kenaltaher.vercel.app/)
 
-- 📝 I regularly write articles on [on proses](on proses)
+- 📝 I regularly write articles on [on proses]
 
 - 💬 Ask me about **what i can do**
 
